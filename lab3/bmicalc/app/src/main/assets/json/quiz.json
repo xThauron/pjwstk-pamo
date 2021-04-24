@@ -1,0 +1,158 @@
+{
+  "questions": [
+    {
+      "name": "What is the most common symptom of COVID – 19?",
+      "correctAnswerId": 2,
+      "answers": [
+        {
+          "id": 0,
+          "text": "Headache"
+        },
+        {
+          "id": 1,
+          "text": "Loss of taste and smell"
+        },
+        {
+          "id": 2,
+          "text": "Fever"
+        },
+        {
+          "id": 3,
+          "text": "Diarhea"
+        }
+      ]
+    },
+    {
+      "name": "To which group of viruses do coronaviruses belong?",
+      "correctAnswerId": 1,
+      "answers": [
+        {
+          "id": 0,
+          "text": "DNA viruses"
+        },
+        {
+          "id": 1,
+          "text": "RNA viruses"
+        },
+        {
+          "id": 2,
+          "text": "Reverse transcribing viruses"
+        },
+        {
+          "id": 3,
+          "text": "Rotaviruses"
+        }
+      ]
+    },
+    {
+      "name": "When do symptoms show after the infection?",
+      "correctAnswerId": 1,
+      "answers": [
+        {
+          "id": 0,
+          "text": "After 2 days"
+        },
+        {
+          "id": 1,
+          "text": "Between 5 to 14 days"
+        },
+        {
+          "id": 2,
+          "text": "After 20 days"
+        },
+        {
+          "id": 3,
+          "text": "After 15 days"
+        }
+      ]
+    },
+    {
+      "name": "How does COVID – 19 spread?",
+      "correctAnswerId": 0,
+      "answers": [
+        {
+          "id": 0,
+          "text": "Via respiratory droplets"
+        },
+        {
+          "id": 1,
+          "text": "By eating in the same room"
+        },
+        {
+          "id": 2,
+          "text": "By swimming in a pool with infected person"
+        },
+        {
+          "id": 3,
+          "text": "By living in the same house"
+        }
+      ]
+    },
+    {
+      "name": "How to protect yourself against the coronavirus?",
+      "correctAnswerId": 0,
+      "answers": [
+        {
+          "id": 0,
+          "text": "Wear a mask that covers tour nose and mouth, wash your hand often, social distance yourself"
+        },
+        {
+          "id": 1,
+          "text": "Become a mountain hermit, run when you see people nearby"
+        },
+        {
+          "id": 2,
+          "text": "Stay at home, play games, watch Netfilx a lot"
+        },
+        {
+          "id": 3,
+          "text": "You can't protect yourself"
+        }
+      ]
+    },
+    {
+      "name": "Can I get Covid vaccine while having Covid?",
+      "correctAnswerId": 2,
+      "answers": [
+        {
+          "id": 0,
+          "text": "Yes if the symptoms are mild"
+        },
+        {
+          "id": 1,
+          "text": "No, you can’t. Never. Vaccines are inserted with nano chips to gain control over people minds"
+        },
+        {
+          "id": 2,
+          "text": "No, you have to wait until you recovered from your illness"
+        },
+        {
+          "id": 3,
+          "text": "Yes, it doesnt't affect the vaccination process"
+        }
+      ]
+    },
+    {
+      "name": "Who is most at risk for COVID-19?",
+      "correctAnswerId": 2,
+      "answers": [
+        {
+          "id": 0,
+          "text": "Young people and children"
+        },
+        {
+          "id": 1,
+          "text": "People with conditions that affect their immune system"
+        },
+        {
+          "id": 2,
+          "text": "People aged 60+ with health conditions affecting lung or heart"
+        },
+        {
+          "id": 3,
+          "text": "People aged 20+ with health conditions affecting lung or heart"
+        }
+      ]
+    }
+  ]
+}
