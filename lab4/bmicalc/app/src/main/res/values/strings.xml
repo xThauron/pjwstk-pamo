@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="result">Your BMI is %.2f\nCategory %s</string>
+    <string name="enter_height">Enter your height in cm</string>
+    <string name="enter_weight">Enter your weight in kg</string>
+    <string name="enter_gender">Choose your gender</string>
+    <string name="enter_age">Enter your age</string>
+    <string name="bmi_calc">Calculate your BMI</string>
+    <string name="preference_user_data">UserData</string>
+    <string name="key_height">heightKey</string>
+    <string name="key_weight">weightKey</string>
+    <string name="key_bmi">bmiKey</string>
+    <string name="key_age">bmiAge</string>
+    <string name="key_bmiCategory">bmiCategoryKey</string>
+    <string name="key_gender">bmiGender</string>
+    <string name="menu_bmi">Bmi Calculator</string>
+    <string name="menu_calories">Calories</string>
+    <string name="menu_eat">Eat</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_quiz">Quiz</string>
+    <string name="button_menu">Wróć do menu</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="button_text_next">Next question</string>
+    <string name="t_question_number">Question %1$d/%2$d</string>
+    <string name="calories_result">Your daily calories intake is:\n %.2f</string>
+    <string name="text_eat_propose">Food suggestion by BMI</string>
+    <string name="bmi_propose_photo_description">Photo of food you can eat with your BMI</string>
+    <string name="t_result">You got %1$d/%2$d. Congratulations!</string>
+    <string name="t_correct_answer">Correct answer</string>
+    <string name="t_false_answer">False answer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
