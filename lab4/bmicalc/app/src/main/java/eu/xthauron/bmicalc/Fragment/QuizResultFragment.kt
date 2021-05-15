@@ -20,8 +20,8 @@ class QuizResultFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         if (arguments != null) {
-            result = arguments!!.getInt(PARAM_RESULT)
-            questionsCount = arguments!!.getInt(PARAM_QUESTION_COUNT)
+            result = requireArguments().getInt(PARAM_RESULT)
+            questionsCount = requireArguments().getInt(PARAM_QUESTION_COUNT)
         }
     }
 
